@@ -1,0 +1,1283 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/">
+<script/>
+<channel rdf:about="http://www.synapse.jp/blog/">
+<title>シナプスぶろぐ新着エントリー100</title>
+<link>http://www.synapse.jp/blog/</link>
+<description>シナプスぶろぐの新着エントリー100個です</description>
+<dc:language>ja</dc:language>
+<dc:date>2018-01-19T16:15:01+09:00</dc:date>
+<dc:publisher>shp@synapse.ne.jp</dc:publisher>
+<dc:creator>SYNAPSE（シナプス）</dc:creator>
+<dc:subject>新着エントリー100</dc:subject>
+<items>
+<rdf:Seq>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kajikishou.synapse-blog.jp/kajiki/2018/01/post-833d.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sueyoshichu.synapse-blog.jp/main/2018/01/post-8646.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://edunet002.synapse-blog.jp/konan/2018/01/post-6204.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://nishiki.synapse-blog.jp/nishiki/2018/01/post-75b7.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://nakatani.synapse-blog.jp/nakatani/2018/01/post-0cf2.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://ushiosyou.synapse-blog.jp/blog/2018/01/post-33bb.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushikinojh.synapse-blog.jp/maguro/2018/01/post-b146.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://tanejhs.synapse-blog.jp/blogfolder/2018/01/post-2867.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://yamanoes.synapse-blog.jp/nikoniko/2018/01/post-6c10.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://mikazuki.synapse-blog.jp/_mikazuki/2018/01/post-73ad.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kaminishisho.synapse-blog.jp/kaminishisho/2018/01/post-521d.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://tanejhs.synapse-blog.jp/blogfolder/2018/01/post-0421.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://osumipark.synapse-blog.jp/osumipark/2018/01/post-b76e.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://isekisho.synapse-blog.jp/iseki/2018/01/post-928a.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://ushiosyou.synapse-blog.jp/blog/2018/01/post-aa66.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://anoyotokonoyo.synapse-blog.jp/daily/2018/01/post-dd9d.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sunnyday.synapse-blog.jp/sunnyday/2018/01/post-919a.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://nakatanejhs.synapse-blog.jp/furyu/2018/01/post-1f04.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://taisei.synapse-blog.jp/19140401/2018/01/post-3198.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://choujuen.synapse-blog.jp/keijin/2018/01/post-5289.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://671108koshi.synapse-blog.jp/tagawa/2018/01/post-083d.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kawatyu.synapse-blog.jp/yatake/2018/01/post-d77f.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kawatyu.synapse-blog.jp/yatake/2018/01/post-1e8d.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sakutyu.synapse-blog.jp/sakutyu/2018/01/post-83b1.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://iwaoka.synapse-blog.jp/iwaokanikki/2018/01/post-ddf5.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kamishiro.synapse-blog.jp/nishimi/2018/01/post-0df9.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kamishiro.synapse-blog.jp/nishimi/2018/01/post-7e18.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://yuutan.synapse-blog.jp/yuutan/2018/01/114go-511d.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sakutyu.synapse-blog.jp/sakutyu/2018/01/post-c65b.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://bep.synapse-blog.jp/bep/2018/01/12-7860.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://ookuchihigashi.synapse-blog.jp/2012/2018/01/post-403b.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://ookuchihigashi.synapse-blog.jp/2012/2018/01/post-c71a.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://forcewith.synapse-blog.jp/8554/2018/01/_-0e3e.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://chosa.synapse-blog.jp/chosa/2018/01/post-2bab.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://tomarigi.synapse-blog.jp/tomarigi/2018/01/3-4cca.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sigetomijh.synapse-blog.jp/0920/2018/01/post-c403.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://je6ssy.synapse-blog.jp/mksende/2018/01/post-4ada.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://tanejhs.synapse-blog.jp/blogfolder/2018/01/post-bd59.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://taicyan.synapse-blog.jp/taicyan/2018/01/post-9191.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://hira20o20.synapse-blog.jp/hirao/2018/01/post-fd06.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushikinojh.synapse-blog.jp/maguro/2018/01/post-f571.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kagoshimafutsal.synapse-blog.jp/blog/2018/01/in-7bd8.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kunigami.synapse-blog.jp/blog/2018/01/post-4594.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://furuyajin.synapse-blog.jp/528/2018/01/_-f932.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://hatsuki.synapse-blog.jp/hatsuki/2018/01/post-e901.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://taicyan.synapse-blog.jp/taicyan/2018/01/post-a62e.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://ftakeoka.synapse-blog.jp/weblog/2018/01/post-e04d.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://blog.mbc.co.jp/tege2/2018/01/124-8bfd.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://aikonoko.synapse-blog.jp/aikonoko_/2018/01/6-9110.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kajikishou.synapse-blog.jp/kajiki/2018/01/post-9e37.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sueyoshichu.synapse-blog.jp/main/2018/01/post-4a13.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://shimonishisyo.synapse-blog.jp/h22/2018/01/post-0757.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://nakatani.synapse-blog.jp/nakatani/2018/01/post-4613.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://tokkou.synapse-blog.jp/blog/2018/01/pta-2d57.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://isekisho.synapse-blog.jp/iseki/2018/01/3-4cca.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushinishi.synapse-blog.jp/blog/2018/01/post-8250.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://hokusatsu.synapse-blog.jp/hokusatsu/2018/01/post-a126.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kajikishou.synapse-blog.jp/kajiki/2018/01/post-26bf.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kawatokosho.synapse-blog.jp/kawashoblog/2018/01/post-b00b.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sumiyoshisho.synapse-blog.jp/sumiyoshi/2018/01/post-9914.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://mikazuki.synapse-blog.jp/_mikazuki/2018/01/post-b0c4.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://yamanoes.synapse-blog.jp/nikoniko/2018/01/post-109b.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sueyoshichu.synapse-blog.jp/main/2018/01/2-88ec.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://honjyou.synapse-blog.jp/isa/2018/01/post-7e79.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushikinojh.synapse-blog.jp/maguro/2018/01/post-e44f.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://nishiki.synapse-blog.jp/nishiki/2018/01/1-435e.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://gennasyo.synapse-blog.jp/blog/2018/01/3-7251.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://osumipark.synapse-blog.jp/osumipark/2018/01/post-2a42.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://yanagizako.synapse-blog.jp/dream/2018/01/post-dc80.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kaminishisho.synapse-blog.jp/kaminishisho/2018/01/post-8116.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kitayama.synapse-blog.jp/main/2018/01/post-8889.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushikinojh.synapse-blog.jp/maguro/2018/01/post-fdb7.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sueyoshichu.synapse-blog.jp/main/2018/01/post-c34d.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://tmnk.synapse-blog.jp/hhhuu/2018/01/12728-21718-d998-1.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://c406506h.synapse-blog.jp/takenchu/2018/01/post-db1c.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://blog.mbc.co.jp/tege_f/2018/01/117-5c52.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://blog.mbc.co.jp/tege_f/2018/01/117-3bbf.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://aikonoko.synapse-blog.jp/aikonoko_/2018/01/post-9c29.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://oosumijh.synapse-blog.jp/blog/2018/01/post-ade3.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://671108koshi.synapse-blog.jp/tagawa/2018/01/post-c0e8.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kajikishou.synapse-blog.jp/kajiki/2018/01/post-5e3d.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://ushiosyou.synapse-blog.jp/blog/2018/01/post-3d2a.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kawatyu.synapse-blog.jp/yatake/2018/01/post-b3d5.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://edunet002.synapse-blog.jp/konan/2018/01/post-64e3.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushinishi.synapse-blog.jp/blog/2018/01/post-3a43.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://yuutan.synapse-blog.jp/yuutan/2018/01/18-3686.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://aokieschool.synapse-blog.jp/blog/2018/01/post-cb60.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sakutyu.synapse-blog.jp/sakutyu/2018/01/post-47a2.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://hanadayori.synapse-blog.jp/blog_/2018/01/2216.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://tomarigi.synapse-blog.jp/tomarigi/2018/01/post-e2a4.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://forcewith.synapse-blog.jp/8554/2018/01/15cm-7a9b.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://akasyoubin.synapse-blog.jp/bauzu/2018/01/post-71f2-3.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://671108koshi.synapse-blog.jp/tagawa/2018/01/hibachi-7fb4.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushi.synapse-blog.jp/test/2018/01/post-5646.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://anjou.synapse-blog.jp/8160/2018/01/post-3a19.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushisho.synapse-blog.jp/kushisho/2018/01/post-8f8a.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kami9123.synapse-blog.jp/kami/2018/01/2018-435f.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sigetomijh.synapse-blog.jp/0920/2018/01/post-2555.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sunnyday.synapse-blog.jp/sunnyday/2018/01/post-810b.html"/>
+<rdf:li rdf:resource="http://www.synapse.jp/blog/cgi/go.cgi?url=http://je6ssy.synapse-blog.jp/mksende/2018/01/post-1531.html"/>
+</rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kajikishou.synapse-blog.jp/kajiki/2018/01/post-833d.html">
+<title>授業参観・学級ＰＴＡ（４・５・６年）</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kajikishou.synapse-blog.jp/kajiki/2018/01/post-833d.html
+</link>
+<description>昨日に続き，今日は４・５・６年生の授業参観，学級ＰＴＡを行いました。理科，音楽，...</description>
+<dc:creator>加治木小学校ブログ</dc:creator>
+<dc:date>2018-01-19T15:51:55+09:00</dc:date>
+<dc:identifier>http://kajikishou.synapse-blog.jp/kajiki/</dc:identifier>
+<dc:publisher>加治木小学校ブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sueyoshichu.synapse-blog.jp/main/2018/01/post-8646.html">
+<title>中学校入学説明会の実施について</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://sueyoshichu.synapse-blog.jp/main/2018/01/post-8646.html
+</link>
+<description>
+昨日，小学校を通じて，標記の文書を対象の児童に配布しましたがお知らせします。 　初春の候，皆様におかれましては，ますます御健勝のこととお喜び申し上げます。 　...
+</description>
+<dc:creator>曽於市立末吉中学校</dc:creator>
+<dc:date>2018-01-19T15:50:08+09:00</dc:date>
+<dc:identifier>http://sueyoshichu.synapse-blog.jp/main/</dc:identifier>
+<dc:publisher>曽於市立末吉中学校ブログ</dc:publisher>
+<dc:subject>お知らせ</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://edunet002.synapse-blog.jp/konan/2018/01/post-6204.html">
+<title>進路指導室だより第９号</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://edunet002.synapse-blog.jp/konan/2018/01/post-6204.html
+</link>
+<description>「進路指導室だより」第９号を発行しました。生徒便で配布済みです。 進路指導室だよ...</description>
+<dc:creator>甲南高等学校</dc:creator>
+<dc:date>2018-01-19T14:55:33+09:00</dc:date>
+<dc:identifier>http://edunet002.synapse-blog.jp/konan/</dc:identifier>
+<dc:publisher>鹿児島県立甲南高等学校ＨＰ</dc:publisher>
+<dc:subject>04-3 進路室配布物</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://nishiki.synapse-blog.jp/nishiki/2018/01/post-75b7.html">
+<title>※※※　宇宙へＧＯ　※※※</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://nishiki.synapse-blog.jp/nishiki/2018/01/post-75b7.html
+</link>
+<description>...</description>
+<dc:creator>錦ヶ丘幼稚園</dc:creator>
+<dc:date>2018-01-19T14:52:59+09:00</dc:date>
+<dc:identifier>http://nishiki.synapse-blog.jp/nishiki/</dc:identifier>
+<dc:publisher>錦ヶ丘幼稚園blog</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://nakatani.synapse-blog.jp/nakatani/2018/01/post-0cf2.html">
+<title>みんなできれいに！</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://nakatani.synapse-blog.jp/nakatani/2018/01/post-0cf2.html
+</link>
+<description>今日の掃除の時間は，全員で正門から校舎入口の間にある 花壇の手入れをしました。 ...</description>
+<dc:creator>中谷小学校</dc:creator>
+<dc:date>2018-01-19T14:48:09+09:00</dc:date>
+<dc:identifier>http://nakatani.synapse-blog.jp/nakatani/</dc:identifier>
+<dc:publisher>曽於市立中谷小学校</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://ushiosyou.synapse-blog.jp/blog/2018/01/post-33bb.html">
+<title>親業出前講座</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://ushiosyou.synapse-blog.jp/blog/2018/01/post-33bb.html
+</link>
+<description>今日は、市教委の西山先生をお迎えして講演が、行われました。。先生のこれまでの経験...</description>
+<dc:creator>牛尾小学校</dc:creator>
+<dc:date>2018-01-19T14:37:06+09:00</dc:date>
+<dc:identifier>http://ushiosyou.synapse-blog.jp/blog/</dc:identifier>
+<dc:publisher>牛尾小学校ブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushikinojh.synapse-blog.jp/maguro/2018/01/post-b146.html">
+<title>学校の様子　【１月１９日（金）】</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushikinojh.synapse-blog.jp/maguro/2018/01/post-b146.html
+</link>
+<description>《薩摩藩英国留学生記念館見学》 午後の総合的な学習の時間に，２年２組が見学に行き...</description>
+<dc:creator>串中</dc:creator>
+<dc:date>2018-01-19T14:14:02+09:00</dc:date>
+<dc:identifier>http://kushikinojh.synapse-blog.jp/maguro/</dc:identifier>
+<dc:publisher>串木野中学校の部屋</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://tanejhs.synapse-blog.jp/blogfolder/2018/01/post-2867.html">
+<title>インフルエンザ対応４</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://tanejhs.synapse-blog.jp/blogfolder/2018/01/post-2867.html
+</link>
+<description>罹患者が急増した１年２組においては１月２２日（月）まで学級閉鎖を行います。本日は...</description>
+<dc:creator>西之表市立種子島中学校</dc:creator>
+<dc:date>2018-01-19T13:54:54+09:00</dc:date>
+<dc:identifier>http://tanejhs.synapse-blog.jp/blogfolder/</dc:identifier>
+<dc:publisher>種子島中学校ブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://yamanoes.synapse-blog.jp/nikoniko/2018/01/post-6c10.html">
+<title>１月の『読み聞かせ』の巻</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://yamanoes.synapse-blog.jp/nikoniko/2018/01/post-6c10.html
+</link>
+<description>１月１９日（金）の朝の活動は、『読み聞かせ』でした。３名の保護者の方と２名の地...</description>
+<dc:creator>山野小学校</dc:creator>
+<dc:date>2018-01-19T13:35:44+09:00</dc:date>
+<dc:identifier>http://yamanoes.synapse-blog.jp/nikoniko/</dc:identifier>
+<dc:publisher>山野小学校にこにこブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://mikazuki.synapse-blog.jp/_mikazuki/2018/01/post-73ad.html">
+<title>池の“ろ過装置”寄贈式</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://mikazuki.synapse-blog.jp/_mikazuki/2018/01/post-73ad.html
+</link>
+<description>１週間前、上場小学校卒業生の有志の方々が設置してくださった「池のろ過装置」の寄贈...</description>
+<dc:creator>uwaba</dc:creator>
+<dc:date>2018-01-19T13:15:12+09:00</dc:date>
+<dc:identifier>http://mikazuki.synapse-blog.jp/_mikazuki/</dc:identifier>
+<dc:publisher>湧水町立上場小学校のブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kaminishisho.synapse-blog.jp/kaminishisho/2018/01/post-521d.html">
+<title>避難訓練（火災）</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kaminishisho.synapse-blog.jp/kaminishisho/2018/01/post-521d.html
+</link>
+<description>1月１９日（金）に理科室から火災が出た避難訓練を実施しました。 消防士の方からい...</description>
+<dc:creator>情報管理者</dc:creator>
+<dc:date>2018-01-19T12:33:29+09:00</dc:date>
+<dc:identifier>http://kaminishisho.synapse-blog.jp/kaminishisho/</dc:identifier>
+<dc:publisher>西之表市立上西小学校ブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://tanejhs.synapse-blog.jp/blogfolder/2018/01/post-0421.html">
+<title>インフルエンザ対応③</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://tanejhs.synapse-blog.jp/blogfolder/2018/01/post-0421.html
+</link>
+<description>現在インフルエンザによる学級閉鎖が出てきているので，今後広がっていかない予防策と...</description>
+<dc:creator>西之表市立種子島中学校</dc:creator>
+<dc:date>2018-01-19T12:30:48+09:00</dc:date>
+<dc:identifier>http://tanejhs.synapse-blog.jp/blogfolder/</dc:identifier>
+<dc:publisher>種子島中学校ブログ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://osumipark.synapse-blog.jp/osumipark/2018/01/post-b76e.html">
+<title>キャンプ場より♪♪</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://osumipark.synapse-blog.jp/osumipark/2018/01/post-b76e.html
+</link>
+<description>嬉しいお知らせ オートキャンプ場が　...</description>
+<dc:creator>大隅広域公園 大隅広域公園</dc:creator>
+<dc:date>2018-01-19T11:47:45+09:00</dc:date>
+<dc:identifier>http://osumipark.synapse-blog.jp/osumipark/</dc:identifier>
+<dc:publisher>大隅広域公園ブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://isekisho.synapse-blog.jp/iseki/2018/01/post-928a.html">
+<title>なわとび大会へ向けて</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://isekisho.synapse-blog.jp/iseki/2018/01/post-928a.html
+</link>
+<description>朝方は晴れ、きれいな朝日が昇ってきました。 日の出の位置も次第に北よりになってき...</description>
+<dc:creator>伊関小学校</dc:creator>
+<dc:date>2018-01-19T11:47:01+09:00</dc:date>
+<dc:identifier>http://isekisho.synapse-blog.jp/iseki/</dc:identifier>
+<dc:publisher>伊関の風</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://ushiosyou.synapse-blog.jp/blog/2018/01/post-aa66.html">
+<title>生活科祭開催</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://ushiosyou.synapse-blog.jp/blog/2018/01/post-aa66.html
+</link>
+<description>今日は、1.2年生共同で生活科祭が行われました。大盛況でした。...</description>
+<dc:creator>牛尾小学校</dc:creator>
+<dc:date>2018-01-19T11:37:38+09:00</dc:date>
+<dc:identifier>http://ushiosyou.synapse-blog.jp/blog/</dc:identifier>
+<dc:publisher>牛尾小学校ブログ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://anoyotokonoyo.synapse-blog.jp/daily/2018/01/post-dd9d.html">
+<title>懐疑的な話</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://anoyotokonoyo.synapse-blog.jp/daily/2018/01/post-dd9d.html
+</link>
+<description>
+さてと、新月も無事に過ぎてヤレヤレですが、今ネット上に極めて懐疑的な記事というか、個人的にはとぉ～っても面白いという記事...
+</description>
+<dc:creator>不思議大好き人間</dc:creator>
+<dc:date>2018-01-19T11:27:30+09:00</dc:date>
+<dc:identifier>http://anoyotokonoyo.synapse-blog.jp/daily/</dc:identifier>
+<dc:publisher>今日の想いを綴る</dc:publisher>
+<dc:subject>日記・コラム</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sunnyday.synapse-blog.jp/sunnyday/2018/01/post-919a.html">
+<title>no title</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://sunnyday.synapse-blog.jp/sunnyday/2018/01/post-919a.html
+</link>
+<description>
+昨日の南。（ノース　MNMちゃん） うねりが少し残っておりました。 今日も波は少し残っているみたいですよ。 南ロコ　MKさん この波良さそうだったな。 ご近所のNRちゃん。 お正月に帰省していたので...
+</description>
+<dc:creator>machi</dc:creator>
+<dc:date>2018-01-19T11:25:59+09:00</dc:date>
+<dc:identifier>http://sunnyday.synapse-blog.jp/sunnyday/</dc:identifier>
+<dc:publisher>サンとまちの種子島散歩日記</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://nakatanejhs.synapse-blog.jp/furyu/2018/01/post-1f04.html">
+<title>性に関する授業</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://nakatanejhs.synapse-blog.jp/furyu/2018/01/post-1f04.html
+</link>
+<description>１月１８日(木)に，全学年で性に関する授業がありました。 １年生は「異性とのかか...</description>
+<dc:creator>中種子中学校</dc:creator>
+<dc:date>2018-01-19T11:16:03+09:00</dc:date>
+<dc:identifier>http://nakatanejhs.synapse-blog.jp/furyu/</dc:identifier>
+<dc:publisher>中種子中ブログ　風立</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://taisei.synapse-blog.jp/19140401/2018/01/post-3198.html">
+<title>インフルエンザ情報</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://taisei.synapse-blog.jp/19140401/2018/01/post-3198.html
+</link>
+<description>１月１９日(金) １年い組……１人 ２年い組……２人 ３年い組……１人 ４年い組...</description>
+<dc:creator>せんだん</dc:creator>
+<dc:date>2018-01-19T10:24:14+09:00</dc:date>
+<dc:identifier>http://taisei.synapse-blog.jp/19140401/</dc:identifier>
+<dc:publisher>大成小の学校日記</dc:publisher>
+<dc:subject>その他</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://choujuen.synapse-blog.jp/keijin/2018/01/post-5289.html">
+<title>手作り獅子舞で縁起担ぎ！【ミニデイサービス瑠璃ちゃん家】</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://choujuen.synapse-blog.jp/keijin/2018/01/post-5289.html
+</link>
+<description>こんにちは(ﾟ∀ﾟ　)!!!! ミニデイサービス瑠璃ちゃん家です(ﾟ∀ﾟ　)☆ ...</description>
+<dc:creator>社会福祉法人　恵仁会</dc:creator>
+<dc:date>2018-01-19T10:16:07+09:00</dc:date>
+<dc:identifier>http://choujuen.synapse-blog.jp/keijin/</dc:identifier>
+<dc:publisher>恵仁会の毎日ブログ♪</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://671108koshi.synapse-blog.jp/tagawa/2018/01/post-083d.html">
+<title>ロッケト雲</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://671108koshi.synapse-blog.jp/tagawa/2018/01/post-083d.html
+</link>
+<description>こんにちは、なぜか腰が痛い東です。 昨日打ち上げられたイプシロン 九州の南部で奇...</description>
+<dc:creator>こーし</dc:creator>
+<dc:date>2018-01-19T10:08:47+09:00</dc:date>
+<dc:identifier>http://671108koshi.synapse-blog.jp/tagawa/</dc:identifier>
+<dc:publisher>けんちく部log。</dc:publisher>
+<dc:subject>日記・コラム</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kawatyu.synapse-blog.jp/yatake/2018/01/post-d77f.html">
+<title>ランタイムロード</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kawatyu.synapse-blog.jp/yatake/2018/01/post-d77f.html
+</link>
+<description>部活動開始前に取り組んでいるランタイム。 継続（永続：校訓）は力なりが，グラウン...</description>
+<dc:creator>かわちゅうブログ</dc:creator>
+<dc:date>2018-01-19T09:33:58+09:00</dc:date>
+<dc:identifier>http://kawatyu.synapse-blog.jp/yatake/</dc:identifier>
+<dc:publisher>川床中ぶろぐ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kawatyu.synapse-blog.jp/yatake/2018/01/post-1e8d.html">
+<title>英検にチャレンジ</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kawatyu.synapse-blog.jp/yatake/2018/01/post-1e8d.html
+</link>
+<description>１９日放課後。本校で英検１次試験を実施します。 今回は，準２級から５級まで１６名...</description>
+<dc:creator>かわちゅうブログ</dc:creator>
+<dc:date>2018-01-19T09:30:21+09:00</dc:date>
+<dc:identifier>http://kawatyu.synapse-blog.jp/yatake/</dc:identifier>
+<dc:publisher>川床中ぶろぐ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sakutyu.synapse-blog.jp/sakutyu/2018/01/post-83b1.html">
+<title>学校の様子　１月１９日（金）</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://sakutyu.synapse-blog.jp/sakutyu/2018/01/post-83b1.html
+</link>
+<description>【小中合同あいさつ運動】 朝のあいさつ運動 ボランティア活動 今日のレクリエーシ...</description>
+<dc:creator>さくちゅう</dc:creator>
+<dc:date>2018-01-19T09:11:16+09:00</dc:date>
+<dc:identifier>http://sakutyu.synapse-blog.jp/sakutyu/</dc:identifier>
+<dc:publisher>枕崎市立桜山中学校のブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://iwaoka.synapse-blog.jp/iwaokanikki/2018/01/post-ddf5.html">
+<title>１月　誕生日給食</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://iwaoka.synapse-blog.jp/iwaokanikki/2018/01/post-ddf5.html
+</link>
+<description>１月１８日（木）に１月生まれの誕生日給食を実施しました。 １月生まれのお友だちが...</description>
+<dc:creator>岩岡のウミガメ</dc:creator>
+<dc:date>2018-01-19T08:58:45+09:00</dc:date>
+<dc:identifier>http://iwaoka.synapse-blog.jp/iwaokanikki/</dc:identifier>
+<dc:publisher>岩岡日記</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kamishiro.synapse-blog.jp/nishimi/2018/01/post-0df9.html">
+<title>全校音楽～バンブーダンスに挑戦～</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kamishiro.synapse-blog.jp/nishimi/2018/01/post-0df9.html
+</link>
+<description>今日の上城タイムは全校音楽でした。 はじめに「おきのえらぶのこもりうた」をみんな...</description>
+<dc:creator>上城小学校</dc:creator>
+<dc:date>2018-01-19T08:57:19+09:00</dc:date>
+<dc:identifier>http://kamishiro.synapse-blog.jp/nishimi/</dc:identifier>
+<dc:publisher>知名町立上城小学校</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kamishiro.synapse-blog.jp/nishimi/2018/01/post-7e18.html">
+<title>いよいよ外壁が</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kamishiro.synapse-blog.jp/nishimi/2018/01/post-7e18.html
+</link>
+<description>体育館の外壁の塗装が進められています。 屋根周りの縁の部分が落ち着いたきれいなオ...</description>
+<dc:creator>上城小学校</dc:creator>
+<dc:date>2018-01-19T07:30:44+09:00</dc:date>
+<dc:identifier>http://kamishiro.synapse-blog.jp/nishimi/</dc:identifier>
+<dc:publisher>知名町立上城小学校</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://yuutan.synapse-blog.jp/yuutan/2018/01/114go-511d.html">
+<title>(1/14)ポケモンGO@街の中</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://yuutan.synapse-blog.jp/yuutan/2018/01/114go-511d.html
+</link>
+<description>日曜日お出掛けしたとき、新しいポケモンが登場したので一緒に参加しました。 日曜日...</description>
+<dc:creator>ゆうたん</dc:creator>
+<dc:date>2018-01-19T07:30:24+09:00</dc:date>
+<dc:identifier>http://yuutan.synapse-blog.jp/yuutan/</dc:identifier>
+<dc:publisher>ゆうたん日記</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sakutyu.synapse-blog.jp/sakutyu/2018/01/post-c65b.html">
+<title>ＰＴＡ理事会　１月１８日（木）</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://sakutyu.synapse-blog.jp/sakutyu/2018/01/post-c65b.html
+</link>
+<description>【議題】 １　ＰＴＡ会長あいさつ ２　学校の現状説明　校長 ３　行事反省 　（１...</description>
+<dc:creator>さくちゅう</dc:creator>
+<dc:date>2018-01-19T06:46:35+09:00</dc:date>
+<dc:identifier>http://sakutyu.synapse-blog.jp/sakutyu/</dc:identifier>
+<dc:publisher>枕崎市立桜山中学校のブログ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://bep.synapse-blog.jp/bep/2018/01/12-7860.html">
+<title>1／2成人式</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://bep.synapse-blog.jp/bep/2018/01/12-7860.html
+</link>
+<description>昨日は授業参観日でしたが，4年生は1／2成人式を行いました。 　たくさんの保護...</description>
+<dc:creator>管理人</dc:creator>
+<dc:date>2018-01-19T06:16:05+09:00</dc:date>
+<dc:identifier>http://bep.synapse-blog.jp/bep/</dc:identifier>
+<dc:publisher>別府小ブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://ookuchihigashi.synapse-blog.jp/2012/2018/01/post-403b.html">
+<title>研究授業③</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://ookuchihigashi.synapse-blog.jp/2012/2018/01/post-403b.html
+</link>
+<description>新規採用の先生の３回目（最後）の研究授業が行われました。今回は，話し合い活動の授...</description>
+<dc:creator>伊佐市立大口東小学校</dc:creator>
+<dc:date>2018-01-19T00:05:39+09:00</dc:date>
+<dc:identifier>http://ookuchihigashi.synapse-blog.jp/2012/</dc:identifier>
+<dc:publisher>東っ子ブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://ookuchihigashi.synapse-blog.jp/2012/2018/01/post-c71a.html">
+<title>気分は中学生</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://ookuchihigashi.synapse-blog.jp/2012/2018/01/post-c71a.html
+</link>
+<description>６年生は，中学校進学に向けて，制服の採寸がありました。 大きめを買った方がよいと...</description>
+<dc:creator>伊佐市立大口東小学校</dc:creator>
+<dc:date>2018-01-19T00:00:36+09:00</dc:date>
+<dc:identifier>http://ookuchihigashi.synapse-blog.jp/2012/</dc:identifier>
+<dc:publisher>東っ子ブログ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://forcewith.synapse-blog.jp/8554/2018/01/_-0e3e.html">
+<title>歩くのが、ヘタになった～！！(_)</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://forcewith.synapse-blog.jp/8554/2018/01/_-0e3e.html
+</link>
+<description>ふと、気がついてしまいました。 　オレ。 　　　　　歩くのが、ヘタになった～～...</description>
+<dc:creator>ごろごろ</dc:creator>
+<dc:date>2018-01-18T23:31:48+09:00</dc:date>
+<dc:identifier>http://forcewith.synapse-blog.jp/8554/</dc:identifier>
+<dc:publisher>みたびの九州</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://chosa.synapse-blog.jp/chosa/2018/01/post-2bab.html">
+<title>早起きは</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://chosa.synapse-blog.jp/chosa/2018/01/post-2bab.html
+</link>
+<description>６時６分 ロケット　見ましたか？ 桜島の東側 オレンジ色に　桜島の麓が　染まり ...</description>
+<dc:creator>帖佐小</dc:creator>
+<dc:date>2018-01-18T22:10:27+09:00</dc:date>
+<dc:identifier>http://chosa.synapse-blog.jp/chosa/</dc:identifier>
+<dc:publisher>帖佐小にこにこブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://tomarigi.synapse-blog.jp/tomarigi/2018/01/3-4cca.html">
+<title>イプシロン3号機</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://tomarigi.synapse-blog.jp/tomarigi/2018/01/3-4cca.html
+</link>
+<description>こんにちはとまり木ねーさんです 今朝は興奮し...</description>
+<dc:creator>ねーさん</dc:creator>
+<dc:date>2018-01-18T21:23:45+09:00</dc:date>
+<dc:identifier>http://tomarigi.synapse-blog.jp/tomarigi/</dc:identifier>
+<dc:publisher>～屋久島(yakushima)とまり木日記～</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sigetomijh.synapse-blog.jp/0920/2018/01/post-c403.html">
+<title>イプシロン</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://sigetomijh.synapse-blog.jp/0920/2018/01/post-c403.html
+</link>
+<description>胃薬みたいな名前ですが，アルファベットのＥのギリシア文字です。意味は，５番目とい...</description>
+<dc:creator>教頭</dc:creator>
+<dc:date>2018-01-18T21:15:15+09:00</dc:date>
+<dc:identifier>http://sigetomijh.synapse-blog.jp/0920/</dc:identifier>
+<dc:publisher>Sigetomi Junior High School</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://je6ssy.synapse-blog.jp/mksende/2018/01/post-4ada.html">
+<title>自家育苗の寒玉キャベツを収穫</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://je6ssy.synapse-blog.jp/mksende/2018/01/post-4ada.html
+</link>
+<description>今朝は，朝刊拾い読み作業に励みながら，午前６時には同作業を中断し屋外に出て内之浦...</description>
+<dc:creator>ロードマン</dc:creator>
+<dc:date>2018-01-18T20:48:46+09:00</dc:date>
+<dc:identifier>http://je6ssy.synapse-blog.jp/mksende/</dc:identifier>
+<dc:publisher>ロードマン行動記</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://tanejhs.synapse-blog.jp/blogfolder/2018/01/post-bd59.html">
+<title>インフルエンザ対応②</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://tanejhs.synapse-blog.jp/blogfolder/2018/01/post-bd59.html
+</link>
+<description>罹患者が急増した２年２組においては１月１９日（金）まで学級閉鎖を行います。 本日...</description>
+<dc:creator>西之表市立種子島中学校</dc:creator>
+<dc:date>2018-01-18T20:20:58+09:00</dc:date>
+<dc:identifier>http://tanejhs.synapse-blog.jp/blogfolder/</dc:identifier>
+<dc:publisher>種子島中学校ブログ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://taicyan.synapse-blog.jp/taicyan/2018/01/post-9191.html">
+<title>２月３日は、ここに泊りだ。</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://taicyan.synapse-blog.jp/taicyan/2018/01/post-9191.html
+</link>
+<description>良い東京の旅になりそうだ。 楽しみだなあ。 天気が良いといいなあ。 着々と決まっ...</description>
+<dc:creator>たいちゃん</dc:creator>
+<dc:date>2018-01-18T20:08:03+09:00</dc:date>
+<dc:identifier>http://taicyan.synapse-blog.jp/taicyan/</dc:identifier>
+<dc:publisher>日々是学び也</dc:publisher>
+<dc:subject>おでかけ</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://hira20o20.synapse-blog.jp/hirao/2018/01/post-fd06.html">
+<title>「おん・くん」かるた</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://hira20o20.synapse-blog.jp/hirao/2018/01/post-fd06.html
+</link>
+<description>かるたで遊んでいるように見えますが，国語の授業（３年）です。 漢字一文字だけが書...</description>
+<dc:creator>ひらしょう</dc:creator>
+<dc:date>2018-01-18T19:49:29+09:00</dc:date>
+<dc:identifier>http://hira20o20.synapse-blog.jp/hirao/</dc:identifier>
+<dc:publisher>ゆめだより</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushikinojh.synapse-blog.jp/maguro/2018/01/post-f571.html">
+<title>青パト隊巡回　【１月１８日（木）】</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushikinojh.synapse-blog.jp/maguro/2018/01/post-f571.html
+</link>
+<description>串木野中学校青パト隊の，４名の方々が生徒の下校時刻に 合わせて，校区内を巡回して...</description>
+<dc:creator>串中</dc:creator>
+<dc:date>2018-01-18T19:48:36+09:00</dc:date>
+<dc:identifier>http://kushikinojh.synapse-blog.jp/maguro/</dc:identifier>
+<dc:publisher>串木野中学校の部屋</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kagoshimafutsal.synapse-blog.jp/blog/2018/01/in-7bd8.html">
+<title>かごしまシティフットサルin桜島 出場チームの募集</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kagoshimafutsal.synapse-blog.jp/blog/2018/01/in-7bd8.html
+</link>
+<description>２月17日(土)、18日(日) 桜島総合体育館にて開催予定の鹿児島シティフットサ...</description>
+<dc:creator>鹿児島県フットサル連盟</dc:creator>
+<dc:date>2018-01-18T19:42:34+09:00</dc:date>
+<dc:identifier>http://kagoshimafutsal.synapse-blog.jp/blog/</dc:identifier>
+<dc:publisher>鹿児島県フットサル連盟BLOG</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kunigami.synapse-blog.jp/blog/2018/01/post-4594.html">
+<title>全校朝会＆お茶うがい</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kunigami.synapse-blog.jp/blog/2018/01/post-4594.html
+</link>
+<description>《全校朝会》 １月１７日（水）の全校朝会は，職員による話の時間でした。 掛け図を...</description>
+<dc:creator>国上小</dc:creator>
+<dc:date>2018-01-18T19:03:35+09:00</dc:date>
+<dc:identifier>http://kunigami.synapse-blog.jp/blog/</dc:identifier>
+<dc:publisher>西之表市立国上小学校</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://furuyajin.synapse-blog.jp/528/2018/01/_-f932.html">
+<title>島は季節感がない(^_^;)</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://furuyajin.synapse-blog.jp/528/2018/01/_-f932.html
+</link>
+<description>春なのか！？，秋なのか！？，夏なのか...</description>
+<dc:creator>ふるやじん</dc:creator>
+<dc:date>2018-01-18T18:27:12+09:00</dc:date>
+<dc:identifier>http://furuyajin.synapse-blog.jp/528/</dc:identifier>
+<dc:publisher>ふるやじんの燦々会</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://hatsuki.synapse-blog.jp/hatsuki/2018/01/post-e901.html">
+<title>３年生学級閉鎖のお知らせ</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://hatsuki.synapse-blog.jp/hatsuki/2018/01/post-e901.html
+</link>
+<description>インフルエンザの脅威は留まることを知らず，明日の１月１９日(金)に３年生の学級閉...</description>
+<dc:creator>羽月っこ</dc:creator>
+<dc:date>2018-01-18T18:21:09+09:00</dc:date>
+<dc:identifier>http://hatsuki.synapse-blog.jp/hatsuki/</dc:identifier>
+<dc:publisher>羽月っこのつぶやき</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://taicyan.synapse-blog.jp/taicyan/2018/01/post-a62e.html">
+<title>菌類を教えよう！！</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://taicyan.synapse-blog.jp/taicyan/2018/01/post-a62e.html
+</link>
+<description>A・オリぜーのぬいぐるみと 国立科学博物館で購入したコウジカビモデル もう少し多...</description>
+<dc:creator>たいちゃん</dc:creator>
+<dc:date>2018-01-18T17:56:37+09:00</dc:date>
+<dc:identifier>http://taicyan.synapse-blog.jp/taicyan/</dc:identifier>
+<dc:publisher>日々是学び也</dc:publisher>
+<dc:subject>理科模型</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://ftakeoka.synapse-blog.jp/weblog/2018/01/post-e04d.html">
+<title>☆避難訓練☆</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://ftakeoka.synapse-blog.jp/weblog/2018/01/post-e04d.html
+</link>
+<description>今日は地震を想定した避難訓練を行いました。 放送が聴こえると、静かにサッと机の下...</description>
+<dc:creator>s-mon1202</dc:creator>
+<dc:date>2018-01-18T17:45:11+09:00</dc:date>
+<dc:identifier>http://ftakeoka.synapse-blog.jp/weblog/</dc:identifier>
+<dc:publisher>武岡幼稚園のブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://blog.mbc.co.jp/tege2/2018/01/124-8bfd.html">
+<title>1月24日（水）は！</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://blog.mbc.co.jp/tege2/2018/01/124-8bfd.html
+</link>
+<description>☆大隅インスタ女子旅 ☆発見！いまどきシェア空間 インスタ映えスポットとして注目...</description>
+<dc:creator>MBCブログ</dc:creator>
+<dc:date>2018-01-18T17:43:52+09:00</dc:date>
+<dc:identifier>http://blog.mbc.co.jp/tege2/</dc:identifier>
+<dc:publisher>TEGE2　オンエア内容</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://aikonoko.synapse-blog.jp/aikonoko_/2018/01/6-9110.html">
+<title>将来の屋久島を担う　6年生キャリア教育</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://aikonoko.synapse-blog.jp/aikonoko_/2018/01/6-9110.html
+</link>
+<description>1月18日（木）5校時，6年生の総合の時間，キャリア教育を実施 キャリア教育とは...</description>
+<dc:creator>屋久島町立小瀬田小学校</dc:creator>
+<dc:date>2018-01-18T17:39:05+09:00</dc:date>
+<dc:identifier>http://aikonoko.synapse-blog.jp/aikonoko_/</dc:identifier>
+<dc:publisher>屋久島町立　小瀬田小学校　あい子ブログ！！</dc:publisher>
+<dc:subject>☆　校長室便り　☆</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kajikishou.synapse-blog.jp/kajiki/2018/01/post-9e37.html">
+<title>正月遊びをしたよ！</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kajikishou.synapse-blog.jp/kajiki/2018/01/post-9e37.html
+</link>
+<description>1/11（木）に支援学級で正月遊びをしました。福笑いや双六，コマ回しなどして，...</description>
+<dc:creator>加治木小学校ブログ</dc:creator>
+<dc:date>2018-01-18T17:25:32+09:00</dc:date>
+<dc:identifier>http://kajikishou.synapse-blog.jp/kajiki/</dc:identifier>
+<dc:publisher>加治木小学校ブログ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sueyoshichu.synapse-blog.jp/main/2018/01/post-4a13.html">
+<title>インフルエンザの取扱について</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://sueyoshichu.synapse-blog.jp/main/2018/01/post-4a13.html
+</link>
+<description>
+インフルエンザの出席停止解除の条件は 発症した後，発症した日を除いて5日経過していること 解熱後，解熱した日を除いて2日経過していること と学校保健安全法施行...
+</description>
+<dc:creator>曽於市立末吉中学校</dc:creator>
+<dc:date>2018-01-18T17:19:37+09:00</dc:date>
+<dc:identifier>http://sueyoshichu.synapse-blog.jp/main/</dc:identifier>
+<dc:publisher>曽於市立末吉中学校ブログ</dc:publisher>
+<dc:subject>お知らせ</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://shimonishisyo.synapse-blog.jp/h22/2018/01/post-0757.html">
+<title>朝の縄跳び</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://shimonishisyo.synapse-blog.jp/h22/2018/01/post-0757.html
+</link>
+<description>元気に登校して、全校児童で縄跳びに取り組んでいます。自分の目標に向かって努力しま...</description>
+<dc:creator>せん だん</dc:creator>
+<dc:date>2018-01-18T17:12:00+09:00</dc:date>
+<dc:identifier>http://shimonishisyo.synapse-blog.jp/h22/</dc:identifier>
+<dc:publisher>下西小実況中継(H29年度)</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://nakatani.synapse-blog.jp/nakatani/2018/01/post-4613.html">
+<title>保護者の皆様，ありがとうございました！</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://nakatani.synapse-blog.jp/nakatani/2018/01/post-4613.html
+</link>
+<description>本日は，授業参観，学級ＰＴＡ，ＰＴＡ全体会を実施しました。 ５時間目の授業参観で...</description>
+<dc:creator>中谷小学校</dc:creator>
+<dc:date>2018-01-18T16:53:24+09:00</dc:date>
+<dc:identifier>http://nakatani.synapse-blog.jp/nakatani/</dc:identifier>
+<dc:publisher>曽於市立中谷小学校</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://tokkou.synapse-blog.jp/blog/2018/01/pta-2d57.html">
+<title>授業参観・学級PTA</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://tokkou.synapse-blog.jp/blog/2018/01/pta-2d57.html
+</link>
+<description>授業参観を行いました。 １年生は，ものの名前， ２年生は詩の発表 ３年生　漢字，...</description>
+<dc:creator>ﾄｯｺｳ</dc:creator>
+<dc:date>2018-01-18T16:51:59+09:00</dc:date>
+<dc:identifier>http://tokkou.synapse-blog.jp/blog/</dc:identifier>
+<dc:publisher>指宿市立徳光小学校</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://isekisho.synapse-blog.jp/iseki/2018/01/3-4cca.html">
+<title>イプシロン3号機</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://isekisho.synapse-blog.jp/iseki/2018/01/3-4cca.html
+</link>
+<description>今朝６時６分、内之浦宇宙空間観測所からイプシロン３号機が打ち上げられました。 伊...</description>
+<dc:creator>伊関小学校</dc:creator>
+<dc:date>2018-01-18T16:45:52+09:00</dc:date>
+<dc:identifier>http://isekisho.synapse-blog.jp/iseki/</dc:identifier>
+<dc:publisher>伊関の風</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushinishi.synapse-blog.jp/blog/2018/01/post-8250.html">
+<title>あいさつ運動強調週間（１月１５日～１月１９日）</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushinishi.synapse-blog.jp/blog/2018/01/post-8250.html
+</link>
+<description>今週はあいさつ運動強調週間たなっており，保護者の方々に御協力いただいています。今...</description>
+<dc:creator>串西中</dc:creator>
+<dc:date>2018-01-18T16:27:12+09:00</dc:date>
+<dc:identifier>http://kushinishi.synapse-blog.jp/blog/</dc:identifier>
+<dc:publisher>串木野西中学校の公式ブログ「西中健児」</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://hokusatsu.synapse-blog.jp/hokusatsu/2018/01/post-a126.html">
+<title>公園だより２月号</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://hokusatsu.synapse-blog.jp/hokusatsu/2018/01/post-a126.html
+</link>
+<description>公園だより２月号ができました。 ご覧ください。...</description>
+<dc:creator>北薩広域公園</dc:creator>
+<dc:date>2018-01-18T16:14:06+09:00</dc:date>
+<dc:identifier>http://hokusatsu.synapse-blog.jp/hokusatsu/</dc:identifier>
+<dc:publisher>ちくりんだより</dc:publisher>
+<dc:subject>イベント</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kajikishou.synapse-blog.jp/kajiki/2018/01/post-26bf.html">
+<title>授業参観・学級ＰＴＡ（１・２・３年）</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kajikishou.synapse-blog.jp/kajiki/2018/01/post-26bf.html
+</link>
+<description>１～3年生で授業参観，学級ＰＴＡを行いました。3年生は道徳の授業参観を行いました...</description>
+<dc:creator>加治木小学校ブログ</dc:creator>
+<dc:date>2018-01-18T16:02:32+09:00</dc:date>
+<dc:identifier>http://kajikishou.synapse-blog.jp/kajiki/</dc:identifier>
+<dc:publisher>加治木小学校ブログ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kawatokosho.synapse-blog.jp/kawashoblog/2018/01/post-b00b.html">
+<title>校内書き初め展</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kawatokosho.synapse-blog.jp/kawashoblog/2018/01/post-b00b.html
+</link>
+<description>冬休みに子どもたちが取り組んだ書き初めの中から，すばらしい作品を各学年2点ずつ選...</description>
+<dc:creator>川床小学校</dc:creator>
+<dc:date>2018-01-18T15:54:23+09:00</dc:date>
+<dc:identifier>http://kawatokosho.synapse-blog.jp/kawashoblog/</dc:identifier>
+<dc:publisher>kawashoblog（川床小学校ブログ）</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sumiyoshisho.synapse-blog.jp/sumiyoshi/2018/01/post-9914.html">
+<title>成長のあかし</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://sumiyoshisho.synapse-blog.jp/sumiyoshi/2018/01/post-9914.html
+</link>
+<description>1月16日（火），授業参観，学校保健委員会，学級ＰＴＡがありました。...</description>
+<dc:creator>情報担当者</dc:creator>
+<dc:date>2018-01-18T15:44:42+09:00</dc:date>
+<dc:identifier>http://sumiyoshisho.synapse-blog.jp/sumiyoshi/</dc:identifier>
+<dc:publisher>住吉小学校の春夏秋冬</dc:publisher>
+<dc:subject>おトク・おすすめ</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://mikazuki.synapse-blog.jp/_mikazuki/2018/01/post-b0c4.html">
+<title>親子で「新年ゲーム大会」!!</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://mikazuki.synapse-blog.jp/_mikazuki/2018/01/post-b0c4.html
+</link>
+<description>今日は、３学期はじめの授業参観・学級ＰＴＡでした。 授業参観は、お父さんやお母さ...</description>
+<dc:creator>uwaba</dc:creator>
+<dc:date>2018-01-18T15:41:32+09:00</dc:date>
+<dc:identifier>http://mikazuki.synapse-blog.jp/_mikazuki/</dc:identifier>
+<dc:publisher>湧水町立上場小学校のブログ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://yamanoes.synapse-blog.jp/nikoniko/2018/01/post-109b.html">
+<title>インフルエンザ予防の徹底について【お知らせ】</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://yamanoes.synapse-blog.jp/nikoniko/2018/01/post-109b.html
+</link>
+<description>昨日1月17日，県内のインフルエンザ定点医療機関当たりの患者報告数（定点当たり...</description>
+<dc:creator>山野小学校</dc:creator>
+<dc:date>2018-01-18T15:39:27+09:00</dc:date>
+<dc:identifier>http://yamanoes.synapse-blog.jp/nikoniko/</dc:identifier>
+<dc:publisher>山野小学校にこにこブログ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sueyoshichu.synapse-blog.jp/main/2018/01/2-88ec.html">
+<title>来週行事の予定変更について2</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://sueyoshichu.synapse-blog.jp/main/2018/01/2-88ec.html
+</link>
+<description>
+昨日から実施しております1･2年生の学年閉鎖に関連しての予定変更第2報です。 　来週月曜日は5時間授業で教科連絡を行っていましたが，6時間授業になります。6校...
+</description>
+<dc:creator>曽於市立末吉中学校</dc:creator>
+<dc:date>2018-01-18T15:32:34+09:00</dc:date>
+<dc:identifier>http://sueyoshichu.synapse-blog.jp/main/</dc:identifier>
+<dc:publisher>曽於市立末吉中学校ブログ</dc:publisher>
+<dc:subject>お知らせ</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://honjyou.synapse-blog.jp/isa/2018/01/post-7e79.html">
+<title>粘り強くこつこつがんばっています。</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://honjyou.synapse-blog.jp/isa/2018/01/post-7e79.html
+</link>
+<description>昨日・本日と2日間にわたって 5年生は，『鹿児島学習定着度調査』に挑戦しています...</description>
+<dc:creator>本城小</dc:creator>
+<dc:date>2018-01-18T15:02:08+09:00</dc:date>
+<dc:identifier>http://honjyou.synapse-blog.jp/isa/</dc:identifier>
+<dc:publisher>『本城っ子』伊佐市立本城小学校</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushikinojh.synapse-blog.jp/maguro/2018/01/post-e44f.html">
+<title>「研究公開授業」参観・ＰＴＡ教育講演会のお知らせ</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushikinojh.synapse-blog.jp/maguro/2018/01/post-e44f.html
+</link>
+<description>このことについて，本日，生徒便で案内文を配布しました。 《研究公開授業》 １　日...</description>
+<dc:creator>串中</dc:creator>
+<dc:date>2018-01-18T14:47:20+09:00</dc:date>
+<dc:identifier>http://kushikinojh.synapse-blog.jp/maguro/</dc:identifier>
+<dc:publisher>串木野中学校の部屋</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://nishiki.synapse-blog.jp/nishiki/2018/01/1-435e.html">
+<title>※※※　1月生まれの誕生会　※※※</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://nishiki.synapse-blog.jp/nishiki/2018/01/1-435e.html
+</link>
+<description>...</description>
+<dc:creator>錦ヶ丘幼稚園</dc:creator>
+<dc:date>2018-01-18T14:19:40+09:00</dc:date>
+<dc:identifier>http://nishiki.synapse-blog.jp/nishiki/</dc:identifier>
+<dc:publisher>錦ヶ丘幼稚園blog</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://gennasyo.synapse-blog.jp/blog/2018/01/3-7251.html">
+<title>3学期もよろしくお願いいたします。</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://gennasyo.synapse-blog.jp/blog/2018/01/3-7251.html
+</link>
+<description>2018年の幕開け 田之脇の海岸から見られる初日の出 １月７日(日)　勧学祭 現...</description>
+<dc:creator>現和小</dc:creator>
+<dc:date>2018-01-18T14:14:06+09:00</dc:date>
+<dc:identifier>http://gennasyo.synapse-blog.jp/blog/</dc:identifier>
+<dc:publisher>西之表市立現和小学校のブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://osumipark.synapse-blog.jp/osumipark/2018/01/post-2a42.html">
+<title>夜光雲が見えました！！</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://osumipark.synapse-blog.jp/osumipark/2018/01/post-2a42.html
+</link>
+<description>...</description>
+<dc:creator>大隅広域公園 大隅広域公園</dc:creator>
+<dc:date>2018-01-18T13:52:43+09:00</dc:date>
+<dc:identifier>http://osumipark.synapse-blog.jp/osumipark/</dc:identifier>
+<dc:publisher>大隅広域公園ブログ</dc:publisher>
+<dc:subject>スポーツ</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://yanagizako.synapse-blog.jp/dream/2018/01/post-dc80.html">
+<title>仲良し音楽</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://yanagizako.synapse-blog.jp/dream/2018/01/post-dc80.html
+</link>
+<description>今日の業間は仲良し音楽 縦割り班の仲間が ５人ずつに分かれて １拍ずつリズムを打...</description>
+<dc:creator>柳迫小学校</dc:creator>
+<dc:date>2018-01-18T13:42:43+09:00</dc:date>
+<dc:identifier>http://yanagizako.synapse-blog.jp/dream/</dc:identifier>
+<dc:publisher>曽於市立柳迫小学校ブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kaminishisho.synapse-blog.jp/kaminishisho/2018/01/post-8116.html">
+<title>校内給食週間</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kaminishisho.synapse-blog.jp/kaminishisho/2018/01/post-8116.html
+</link>
+<description>委員会の子供が中学年の教室で「紙芝居」を読みました。給食を食べながらしっかり聞い...</description>
+<dc:creator>情報管理者</dc:creator>
+<dc:date>2018-01-18T13:09:01+09:00</dc:date>
+<dc:identifier>http://kaminishisho.synapse-blog.jp/kaminishisho/</dc:identifier>
+<dc:publisher>西之表市立上西小学校ブログ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kitayama.synapse-blog.jp/main/2018/01/post-8889.html">
+<title>姶良市立北山小学校　校内読書旬間～２６日まで</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kitayama.synapse-blog.jp/main/2018/01/post-8889.html
+</link>
+<description>毎日，子どもたちが喜んで集まる場所，図書室。 ３学期が始まり，「校内読書旬間」が...</description>
+<dc:creator>Kitayama-syo</dc:creator>
+<dc:date>2018-01-18T13:02:39+09:00</dc:date>
+<dc:identifier>http://kitayama.synapse-blog.jp/main/</dc:identifier>
+<dc:publisher>鹿児島県姶良市立北山小学校ブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushikinojh.synapse-blog.jp/maguro/2018/01/post-fdb7.html">
+<title>学校の様子　【１月１８日（木）】</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushikinojh.synapse-blog.jp/maguro/2018/01/post-fdb7.html
+</link>
+<description>《鹿児島学習定着度調査》 今日は，社会・数学・英語の３教科が実施されました。 １...</description>
+<dc:creator>串中</dc:creator>
+<dc:date>2018-01-18T12:13:02+09:00</dc:date>
+<dc:identifier>http://kushikinojh.synapse-blog.jp/maguro/</dc:identifier>
+<dc:publisher>串木野中学校の部屋</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sueyoshichu.synapse-blog.jp/main/2018/01/post-c34d.html">
+<title>来週行事の予定変更について</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://sueyoshichu.synapse-blog.jp/main/2018/01/post-c34d.html
+</link>
+<description>
+昨日から実施しております1･2年生の学年閉鎖に関連しての予定変更です。 　昨日･今日実施を予定しておりました鹿児島学習定着度調査を来週24日(水)･25日(木...
+</description>
+<dc:creator>曽於市立末吉中学校</dc:creator>
+<dc:date>2018-01-18T12:10:13+09:00</dc:date>
+<dc:identifier>http://sueyoshichu.synapse-blog.jp/main/</dc:identifier>
+<dc:publisher>曽於市立末吉中学校ブログ</dc:publisher>
+<dc:subject>お知らせ</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://tmnk.synapse-blog.jp/hhhuu/2018/01/12728-21718-d998-1.html">
+<title>1月27、28 2月17、18日ツルを観にお越しになられる方へ。</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://tmnk.synapse-blog.jp/hhhuu/2018/01/12728-21718-d998-1.html
+</link>
+<description>1月27、２８日 2月17、１８日は 社会実験のため ツル越冬地へ マイカー規制...</description>
+<dc:creator>hot bear&apos;s</dc:creator>
+<dc:date>2018-01-18T11:31:34+09:00</dc:date>
+<dc:identifier>http://tmnk.synapse-blog.jp/hhhuu/</dc:identifier>
+<dc:publisher>出水の魚松さん。</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://c406506h.synapse-blog.jp/takenchu/2018/01/post-db1c.html">
+<title>花の苗の植え替え作業</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://c406506h.synapse-blog.jp/takenchu/2018/01/post-db1c.html
+</link>
+<description>一昨日の2年生の技術の授業で，花苗の植え替え作業を行いました。 だいぶ育ってきて...</description>
+<dc:creator>宇検村立田検中学校</dc:creator>
+<dc:date>2018-01-18T11:16:44+09:00</dc:date>
+<dc:identifier>http://c406506h.synapse-blog.jp/takenchu/</dc:identifier>
+<dc:publisher>田検中学校ブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://blog.mbc.co.jp/tege_f/2018/01/117-5c52.html">
+<title>1/17　たくおどん</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://blog.mbc.co.jp/tege_f/2018/01/117-5c52.html
+</link>
+<description>《衣装協力》　ＡＶＩＲＥＸ　 　　　　　　　099-222-3701　　 　　　...</description>
+<dc:creator>TEGEスタッフ</dc:creator>
+<dc:date>2018-01-18T11:16:07+09:00</dc:date>
+<dc:identifier>http://blog.mbc.co.jp/tege_f/</dc:identifier>
+<dc:publisher>TEGEファッション</dc:publisher>
+<dc:subject>たかちんチェック</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://blog.mbc.co.jp/tege_f/2018/01/117-3bbf.html">
+<title>1/17 えーとくさん</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://blog.mbc.co.jp/tege_f/2018/01/117-3bbf.html
+</link>
+<description>《衣装協力》　SALLY　 　　　　　　　099-248-7772 　　　　　　...</description>
+<dc:creator>TEGEスタッフ</dc:creator>
+<dc:date>2018-01-18T10:51:45+09:00</dc:date>
+<dc:identifier>http://blog.mbc.co.jp/tege_f/</dc:identifier>
+<dc:publisher>TEGEファッション</dc:publisher>
+<dc:subject>たかちんチェック</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://aikonoko.synapse-blog.jp/aikonoko_/2018/01/post-9c29.html">
+<title>県学校環境緑化コンクール　優良賞　受賞</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://aikonoko.synapse-blog.jp/aikonoko_/2018/01/post-9c29.html
+</link>
+<description>1月17日（水）熊毛地区植樹祭が中種子町中央体育館にて開催 校長が学校代表として...</description>
+<dc:creator>屋久島町立小瀬田小学校</dc:creator>
+<dc:date>2018-01-18T10:14:22+09:00</dc:date>
+<dc:identifier>http://aikonoko.synapse-blog.jp/aikonoko_/</dc:identifier>
+<dc:publisher>屋久島町立　小瀬田小学校　あい子ブログ！！</dc:publisher>
+<dc:subject>☆　校長室便り　☆</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://oosumijh.synapse-blog.jp/blog/2018/01/post-ade3.html">
+<title>引き続き，鹿児島学習定着度調査にチャレンジ！(2日目）</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://oosumijh.synapse-blog.jp/blog/2018/01/post-ade3.html
+</link>
+<description>昨日に引き続き鹿児島学習定着度調査にチャレンジしています。 １年生　社会→英語...</description>
+<dc:creator>曽於市立大隅中学校</dc:creator>
+<dc:date>2018-01-18T10:08:34+09:00</dc:date>
+<dc:identifier>http://oosumijh.synapse-blog.jp/blog/</dc:identifier>
+<dc:publisher>曽於市立大隅中学校のブログ</dc:publisher>
+<dc:subject>学校行事</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://671108koshi.synapse-blog.jp/tagawa/2018/01/post-c0e8.html">
+<title>模型</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://671108koshi.synapse-blog.jp/tagawa/2018/01/post-c0e8.html
+</link>
+<description>こんにちは、今日イプシロンのロケット雲を見逃した東です プレゼ...</description>
+<dc:creator>こーし</dc:creator>
+<dc:date>2018-01-18T10:00:35+09:00</dc:date>
+<dc:identifier>http://671108koshi.synapse-blog.jp/tagawa/</dc:identifier>
+<dc:publisher>けんちく部log。</dc:publisher>
+<dc:subject>日記・コラム</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kajikishou.synapse-blog.jp/kajiki/2018/01/post-5e3d.html">
+<title>１月１８日の朝</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kajikishou.synapse-blog.jp/kajiki/2018/01/post-5e3d.html
+</link>
+<description>今朝，学校にきたら，イプシロン３号機打ち上げ後のロケット雲が上空に残っていました...</description>
+<dc:creator>加治木小学校ブログ</dc:creator>
+<dc:date>2018-01-18T08:42:35+09:00</dc:date>
+<dc:identifier>http://kajikishou.synapse-blog.jp/kajiki/</dc:identifier>
+<dc:publisher>加治木小学校ブログ</dc:publisher>
+<dc:subject>お知らせ</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://ushiosyou.synapse-blog.jp/blog/2018/01/post-3d2a.html">
+<title>お薦めの本紹介</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://ushiosyou.synapse-blog.jp/blog/2018/01/post-3d2a.html
+</link>
+<description>今日は、中学年のお友達のお薦めの本を紹介していただきました。是非読んでみたい本ば...</description>
+<dc:creator>牛尾小学校</dc:creator>
+<dc:date>2018-01-18T08:38:27+09:00</dc:date>
+<dc:identifier>http://ushiosyou.synapse-blog.jp/blog/</dc:identifier>
+<dc:publisher>牛尾小学校ブログ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kawatyu.synapse-blog.jp/yatake/2018/01/post-b3d5.html">
+<title>平成３０年度ＰＴＡ三役選出</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kawatyu.synapse-blog.jp/yatake/2018/01/post-b3d5.html
+</link>
+<description>１・２年生保護者に，上記に関するプリントを１５日に配布しています。 １・２年生全...</description>
+<dc:creator>かわちゅうブログ</dc:creator>
+<dc:date>2018-01-18T08:21:36+09:00</dc:date>
+<dc:identifier>http://kawatyu.synapse-blog.jp/yatake/</dc:identifier>
+<dc:publisher>川床中ぶろぐ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://edunet002.synapse-blog.jp/konan/2018/01/post-64e3.html">
+<title>謎の雲出現！！～朝の風景～</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://edunet002.synapse-blog.jp/konan/2018/01/post-64e3.html
+</link>
+<description>甲南高校の朝は早い！ 毎朝６時過ぎには、早い生徒は登校します。 今朝はいつもの風...</description>
+<dc:creator>甲南高等学校</dc:creator>
+<dc:date>2018-01-18T07:59:34+09:00</dc:date>
+<dc:identifier>http://edunet002.synapse-blog.jp/konan/</dc:identifier>
+<dc:publisher>鹿児島県立甲南高等学校ＨＰ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushinishi.synapse-blog.jp/blog/2018/01/post-3a43.html">
+<title>イプシロン発射（１月１８日・木）</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushinishi.synapse-blog.jp/blog/2018/01/post-3a43.html
+</link>
+<description>今朝，本校から見えたイプシロン発射後の様子です。南の空が明るくなっていました。...</description>
+<dc:creator>串西中</dc:creator>
+<dc:date>2018-01-18T07:37:57+09:00</dc:date>
+<dc:identifier>http://kushinishi.synapse-blog.jp/blog/</dc:identifier>
+<dc:publisher>串木野西中学校の公式ブログ「西中健児」</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://yuutan.synapse-blog.jp/yuutan/2018/01/18-3686.html">
+<title>(1/8)朝ご飯</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://yuutan.synapse-blog.jp/yuutan/2018/01/18-3686.html
+</link>
+<description>1月8日朝ご飯兼昼ご飯の画像です。 久しぶりの家でゆっくりしてます。...</description>
+<dc:creator>ゆうたん</dc:creator>
+<dc:date>2018-01-18T07:30:45+09:00</dc:date>
+<dc:identifier>http://yuutan.synapse-blog.jp/yuutan/</dc:identifier>
+<dc:publisher>ゆうたん日記</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://aokieschool.synapse-blog.jp/blog/2018/01/post-cb60.html">
+<title>久保のもぐらうっ</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://aokieschool.synapse-blog.jp/blog/2018/01/post-cb60.html
+</link>
+<description>今年は歌の歌詞にあるとおり，１月１４日に行われました。 檍小学校児童２３名が参...</description>
+<dc:creator>あおき小</dc:creator>
+<dc:date>2018-01-18T07:15:00+09:00</dc:date>
+<dc:identifier>http://aokieschool.synapse-blog.jp/blog/</dc:identifier>
+<dc:publisher>檍小学校のブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sakutyu.synapse-blog.jp/sakutyu/2018/01/post-47a2.html">
+<title>学校の様子　１月１８日（木）</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://sakutyu.synapse-blog.jp/sakutyu/2018/01/post-47a2.html
+</link>
+<description>【イプシロン３号機打ち上げ】 学校正門からも見ることができました。 長時間にわた...</description>
+<dc:creator>さくちゅう</dc:creator>
+<dc:date>2018-01-18T06:31:21+09:00</dc:date>
+<dc:identifier>http://sakutyu.synapse-blog.jp/sakutyu/</dc:identifier>
+<dc:publisher>枕崎市立桜山中学校のブログ</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://hanadayori.synapse-blog.jp/blog_/2018/01/2216.html">
+<title>[2216]南風</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://hanadayori.synapse-blog.jp/blog_/2018/01/2216.html
+</link>
+<description>朝から申し分のないよい天気。。 ひさしぶりに友人夫妻に会う。 場所は県庁Ⅰ8階の...</description>
+<dc:creator>ローズマリー</dc:creator>
+<dc:date>2018-01-18T06:20:27+09:00</dc:date>
+<dc:identifier>http://hanadayori.synapse-blog.jp/blog_/</dc:identifier>
+<dc:publisher>鹿児島　　花だより</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://tomarigi.synapse-blog.jp/tomarigi/2018/01/post-e2a4.html">
+<title>わかちゃん＆ありすちゃん＆はらしまくん＆すずきくん＆しまだくん＆きたじまくん＆おおきくん</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://tomarigi.synapse-blog.jp/tomarigi/2018/01/post-e2a4.html
+</link>
+<description>1/18誕生日おめでとう...</description>
+<dc:creator>ねーさん</dc:creator>
+<dc:date>2018-01-18T04:26:05+09:00</dc:date>
+<dc:identifier>http://tomarigi.synapse-blog.jp/tomarigi/</dc:identifier>
+<dc:publisher>～屋久島(yakushima)とまり木日記～</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://forcewith.synapse-blog.jp/8554/2018/01/15cm-7a9b.html">
+<title>鶏むね肉は、1.5cmに・・・・・</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://forcewith.synapse-blog.jp/8554/2018/01/15cm-7a9b.html
+</link>
+<description>あ・・・、どうなんだろう・・・・・・。 　　　そういえば、自分が千葉県柏市の...</description>
+<dc:creator>ごろごろ</dc:creator>
+<dc:date>2018-01-18T00:46:08+09:00</dc:date>
+<dc:identifier>http://forcewith.synapse-blog.jp/8554/</dc:identifier>
+<dc:publisher>みたびの九州</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://akasyoubin.synapse-blog.jp/bauzu/2018/01/post-71f2-3.html">
+<title>茶太郎写真日記</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://akasyoubin.synapse-blog.jp/bauzu/2018/01/post-71f2-3.html
+</link>
+<description>うん‼︎いい顔❣️...</description>
+<dc:creator>アカショウビン</dc:creator>
+<dc:date>2018-01-17T23:39:00+09:00</dc:date>
+<dc:identifier>http://akasyoubin.synapse-blog.jp/bauzu/</dc:identifier>
+<dc:publisher>bauzu</dc:publisher>
+<dc:subject>ペット</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://671108koshi.synapse-blog.jp/tagawa/2018/01/hibachi-7fb4.html">
+<title>Hibachi。</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://671108koshi.synapse-blog.jp/tagawa/2018/01/hibachi-7fb4.html
+</link>
+<description>先日のこと この冬はじめて火鉢に火を入れてみた一丁田です。。。 わずかな炭を入れ...</description>
+<dc:creator>こーし</dc:creator>
+<dc:date>2018-01-17T22:35:39+09:00</dc:date>
+<dc:identifier>http://671108koshi.synapse-blog.jp/tagawa/</dc:identifier>
+<dc:publisher>けんちく部log。</dc:publisher>
+<dc:subject>日記・コラム</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushi.synapse-blog.jp/test/2018/01/post-5646.html">
+<title>全校朝会</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushi.synapse-blog.jp/test/2018/01/post-5646.html
+</link>
+<description>１６日（火）に全校朝会がありました。まず元気よく校長先生と挨拶をしました。 　...</description>
+<dc:creator>久志っ子</dc:creator>
+<dc:date>2018-01-17T21:59:30+09:00</dc:date>
+<dc:identifier>http://kushi.synapse-blog.jp/test/</dc:identifier>
+<dc:publisher>久志小中学校ブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://anjou.synapse-blog.jp/8160/2018/01/post-3a19.html">
+<title>君に届け！ぼくの思い</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://anjou.synapse-blog.jp/8160/2018/01/post-3a19.html
+</link>
+<description>2017.pdfをダウンロード...</description>
+<dc:creator>安城の子</dc:creator>
+<dc:date>2018-01-17T21:57:46+09:00</dc:date>
+<dc:identifier>http://anjou.synapse-blog.jp/8160/</dc:identifier>
+<dc:publisher>安城小ブログ　Message Bottle in Web</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushisho.synapse-blog.jp/kushisho/2018/01/post-8f8a.html">
+<title>なわとび大会に向けて</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kushisho.synapse-blog.jp/kushisho/2018/01/post-8f8a.html
+</link>
+<description>串木野小学校では3学期になわとび大会をしています。 1月の最後から2月にかけて各...</description>
+<dc:creator>kushisho</dc:creator>
+<dc:date>2018-01-17T21:48:26+09:00</dc:date>
+<dc:identifier>http://kushisho.synapse-blog.jp/kushisho/</dc:identifier>
+<dc:publisher>串木野小学校公式ブログ</dc:publisher>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://kami9123.synapse-blog.jp/kami/2018/01/2018-435f.html">
+<title>2018膳棚</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://kami9123.synapse-blog.jp/kami/2018/01/2018-435f.html
+</link>
+<description>久しぶりの寒気、ちょっと弱いかなと思ったけれど、やはりチャンスは逃せない・・・(...</description>
+<dc:creator>カミ</dc:creator>
+<dc:date>2018-01-17T21:48:00+09:00</dc:date>
+<dc:identifier>http://kami9123.synapse-blog.jp/kami/</dc:identifier>
+<dc:publisher>おやっとさぁ</dc:publisher>
+<dc:subject>山歩き好日</dc:subject>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sigetomijh.synapse-blog.jp/0920/2018/01/post-2555.html">
+<title>いがったか？</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://sigetomijh.synapse-blog.jp/0920/2018/01/post-2555.html
+</link>
+<description>鹿児島学習定着度調査が始まりました。 国語と理科が終わったところです。みんな！い...</description>
+<dc:creator>教頭</dc:creator>
+<dc:date>2018-01-17T20:24:17+09:00</dc:date>
+<dc:identifier>http://sigetomijh.synapse-blog.jp/0920/</dc:identifier>
+<dc:publisher>Sigetomi Junior High School</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://sunnyday.synapse-blog.jp/sunnyday/2018/01/post-810b.html">
+<title>no title</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://sunnyday.synapse-blog.jp/sunnyday/2018/01/post-810b.html
+</link>
+<description>
+サイズアップ南。 なんとか仕事を終わらせ海へ。 入りたて、人は多いけど波はぼちぼちよい。 でも私はポジションが悪く乗れず。 潮が満ちて徐々に浜辺との距離が近くなり、地形の悪さからバックウォッシュもひ...
+</description>
+<dc:creator>machi</dc:creator>
+<dc:date>2018-01-17T20:03:49+09:00</dc:date>
+<dc:identifier>http://sunnyday.synapse-blog.jp/sunnyday/</dc:identifier>
+<dc:publisher>サンとまちの種子島散歩日記</dc:publisher>
+<dc:subject/>
+</item>
+<item rdf:about="http://www.synapse.jp/blog/cgi/go.cgi?url=http://je6ssy.synapse-blog.jp/mksende/2018/01/post-1531.html">
+<title>野菜高の報に接しご近所さんへ</title>
+<link>
+http://www.synapse.jp/blog/cgi/go.cgi?url=http://je6ssy.synapse-blog.jp/mksende/2018/01/post-1531.html
+</link>
+<description>阪神・淡路大震災から早や２３年目を迎えた今日は，深夜から降り出した雨も午前９時以...</description>
+<dc:creator>ロードマン</dc:creator>
+<dc:date>2018-01-17T19:40:59+09:00</dc:date>
+<dc:identifier>http://je6ssy.synapse-blog.jp/mksende/</dc:identifier>
+<dc:publisher>ロードマン行動記</dc:publisher>
+<dc:subject/>
+</item>
+</rdf:RDF>
