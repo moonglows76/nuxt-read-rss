@@ -9,7 +9,7 @@
       >
         <header class="article-list__header">
           <h2 class="article-list__title">
-            <a :href="deleteNewlineCharacter(content.link)" target="_blank">
+            <a :href="content.link" target="_blank">
               {{ content.title }}
             </a>
           </h2>
@@ -47,6 +47,7 @@ export default {
           const parser = new xml2js.Parser({
             async: false,
             explicitArray: false,
+            trim: true,
           });
           // 変換を実行
           // data: 取得したxml
@@ -71,10 +72,6 @@ export default {
       .catch((e) => console.error(e));
   },
   methods: {
-    // 不要な改行文字を削除
-    deleteNewlineCharacter(text) {
-      return text.replace(/\r?\n/g, "");
-    },
     // リストで表示する件数を調整
     limitCount(number) {
       return this.contents.slice(0, number);
