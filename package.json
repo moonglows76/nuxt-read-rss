@@ -12,6 +12,7 @@
     "@nuxtjs/axios": "^5.12.5",
     "core-js": "^3.8.3",
     "dayjs": "^1.10.5",
+    "fast-xml-parser": "^3.19.0",
     "nuxt": "^2.14.12",
     "xml2js": "^0.4.23"
   },
