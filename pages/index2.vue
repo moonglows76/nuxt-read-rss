@@ -57,6 +57,9 @@ export default {
         },
       ],
     };
+
+    // XMLから記事データを読み込む＆Vue内で使えるようにデータをreturnする
+    // （asyncData関数の外にデータを出して、templateタグ内やscriptタグ内で扱えるようにする）
     return await $axios
       .get(url, config)
       .then((response) => {
